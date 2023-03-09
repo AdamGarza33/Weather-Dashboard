@@ -10,6 +10,9 @@ This web application is a Weather Dashboard designed to pull a city's current te
 * Clicking on a previously searched city again presents you with current and future weather conditions for that city. 
 
 
+Link: https://adamgarza33.github.io/Weather-Dashboard/
+
+![image](https://user-images.githubusercontent.com/122870981/223928462-232bb597-437b-43b1-bbe6-9eca24f45a26.png)
 
 
 
