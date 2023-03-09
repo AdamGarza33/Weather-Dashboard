@@ -89,7 +89,7 @@ function todayWeather(city) {
 }
 
 function uvIndex(ln,lt){
-    // url for uvindex.
+    // url uvindex.
     var uvqURL="https://api.openweathermap.org/data/2.5/uvi?appid="+ APIKey+"&lat="+lt+"&lon="+ln;
     $.ajax({
             url:uvqURL,
